@@ -1,4 +1,4 @@
-baseURL: https://example.org/
-languageCode: en-us
-title: My New Hugo Site
+baseURL: "https://haruya-r8.github.io/my-ai-drawer/"
+languageCode: "ja"
+title: "AIの引き出し（haruya-r8）"
 theme: "paper"
