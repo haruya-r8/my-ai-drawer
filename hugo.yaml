@@ -5,8 +5,11 @@ theme: "paper"
 menu:
   main:
     - name: "Tags"
-      url: "/tags/"
+      url: "tags"
       weight: 10
     - name: "Archive"
       url: "/posts/"
       weight: 20
+taxonomies:
+  tag: tags
+  category: categories
