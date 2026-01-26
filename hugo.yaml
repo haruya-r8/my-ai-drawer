@@ -1,15 +1,19 @@
 baseURL: "https://haruya-r8.github.io/my-ai-drawer/"
 languageCode: "ja"
 title: "AIの引き出し（haruya-r8）"
-theme: "paper"
-taxonomies:
-  tag: tags
-  category: categories
+theme: "PaperMod"
+
+# 記事の要約を表示する設定
+params:
+  displayFullContent: false
+  showCodeCopyButtons: true
+
+# メニュー設定（TagsとArchivesを有効化）
 menu:
   main:
-    - name: "Tags"
-      url: "/tags/"
+    - name: "アーカイブ"
+      url: "archives"
       weight: 10
-    - name: "Archive"
-      url: "/posts/"
+    - name: "タグ"
+      url: "tags"
       weight: 20
