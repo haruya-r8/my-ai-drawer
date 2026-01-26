@@ -2,3 +2,11 @@ baseURL: "https://haruya-r8.github.io/my-ai-drawer/"
 languageCode: "ja"
 title: "AIの引き出し（haruya-r8）"
 theme: "paper"
+menu:
+  main:
+    - name: "Tags"
+      url: "/tags/"
+      weight: 10
+    - name: "Archive"
+      url: "/posts/"
+      weight: 20
