@@ -8,12 +8,20 @@ params:
   displayFullContent: false
   showCodeCopyButtons: true
 
-# メニュー設定（TagsとArchivesを有効化）
+# カテゴリとタグを有効にする設定
+taxonomies:
+  category: categories
+  tag: tags
+
+# メニュー設定
 menu:
   main:
     - name: "アーカイブ"
       url: "archives"
-      weight: 10
+      weight: 30
     - name: "タグ"
       url: "tags"
       weight: 20
+    - name: "カテゴリ"
+      url: "categories"
+      weight: 10
