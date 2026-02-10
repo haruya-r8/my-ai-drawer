@@ -3,10 +3,12 @@ languageCode: "ja"
 title: "AIの引き出し（haruya-r8）"
 theme: "PaperMod"
 
-# 記事の要約を表示する設定
 params:
+  # 記事の要約を表示する設定
   displayFullContent: false
   showCodeCopyButtons: true
+  # 投稿のメタ情報（日付、読了時間、著者など）を表示するか
+  ShowMetaData: true
 
 # カテゴリとタグを有効にする設定
 taxonomies:
