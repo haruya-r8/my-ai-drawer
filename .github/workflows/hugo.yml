@@ -19,8 +19,11 @@ jobs:
           submodules: recursive
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.140.0'  # 'latest' から 0.140.0 に変更
           extended: true
       - name: Build
         run: hugo --minify
