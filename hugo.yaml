@@ -11,10 +11,9 @@ params:
   ShowMetaData: true
   # 
   homeInfoParams:
-    Title: "AIの引き出し（haruya-r8）"
     Content: >
-      このサイトは読書などから得た私（haruya-r8）の気付きや思考をAIに読ませるための個人的なブログです。
-      ※URLは特に公表していませんが、掲載内容や引用等に問題がある場合は、お手数ですが、idiolects52@gmail.com へご連絡ください。迅速に対応いたします。
+      AIに読ませるための個人ブログ。URL非公表。
+      ※引用等に問題がある場合は、idiolects52@gmail.com まで。
 
 # カテゴリとタグを有効にする設定
 taxonomies:
