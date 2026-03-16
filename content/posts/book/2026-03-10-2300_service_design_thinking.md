@@ -46,15 +46,16 @@ draft: false
 
 ---
 
-## 📚 References
+## 🔗 Source
+- book
+- https://www.amazon.co.jp/サービスデザイン思考-―「モノづくりから、コトづくりへ」をこえて-井登友一/dp/4757123884
+
+---
+
+## 🖇 External Links
 - [d.school](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf)
 - [ニールセン・ノーマン・グループ](https://www.nngroup.com/articles/design-thinking/)
 - [英国デザイン協議会](https://www.designcouncil.org.uk)
 - [SDN Japan](https://www.service-design-network.org/chapters/japan)
 - [HCD-Net](https://www.hcdnet.org)
 
----
-
-## 🔗 Source
-- book
-- https://www.amazon.co.jp/サービスデザイン思考-―「モノづくりから、コトづくりへ」をこえて-井登友一/dp/4757123884
